@@ -54,29 +54,35 @@ I work primarily with **MERN Stack, Next.js, Laravel, PHP, and MySQL**, and I en
 
 ---
 
-## ⭐ Featured Project
+## 🚀 Featured Project
 
-### 🏢 Building Management System
+### 🏢 ZM Dost — Building Management System
 
-A full-stack **Building Management System** developed to solve real-world business requirements.
+A full-stack **Building Management System** built for real-world business use.
 
-The system was **developed, deployed, and delivered for client use** and is currently being used in a real-world environment.
+**🌐 Live:** https://zmdost.com
 
-**Technology Stack:**
+**Tech Stack:**
+Next.js · React.js · Node.js · Express.js · MongoDB · Tailwind CSS
 
-`Next.js` · `React.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS`
+**Key Modules:**
 
-**Key Areas:**
+* 🏢 Building & Property Management
+* 🏠 Units / Rooms Management
+* 👥 Customer & Employee Management
+* 📄 Agreements Management
+* 💰 Revenue & Salary Management
+* 📊 Reports & Analytics
+* 🔐 Authentication & Authorization
+* 🔌 REST API Integration
 
-* 🏢 Building & property management
-* 👥 Customer and employee management
-* 🏠 Room/unit management
-* 📄 Agreement & record management
-* 💰 Revenue-related operations
-* 📉 Reports & Analytics
-* 📊 Dashboard & business information
-* 🔐 Authentication & protected functionality
-* 🔄 REST API based operations
+**Repositories:**
+
+* [Frontend — Next.js](https://github.com/Aliashraf-1/zm-dost-frontend)
+* [Backend — Node.js / Express / MongoDB](https://github.com/Aliashraf-1/zm-dost-backend)
+
+> Built, deployed, and currently used by a real-world client(company : Zameen Dost Marketing).
+
 
 > **Note:** The project contains client-specific business logic and data, so some details are intentionally kept private.
 
