@@ -1,4 +1,4 @@
-# Hi, I'm Ali Ashraf 👋
+# Hi, I'm Ali Ashraf 
 
 ### Full-Stack Web Developer | MERN & Next.js | Laravel & PHP
 
@@ -11,7 +11,7 @@ I work primarily with **MERN Stack, Next.js, Laravel, PHP, and MySQL**, and I en
 
 ---
 
-## 🚀 About Me
+##  About Me :
 
 * 💻 Full-Stack Web Developer with hands-on experience in **MERN & Next.js**
 * ⚙️ Experienced in building **REST APIs, authentication systems, dashboards, CRUD applications, and database-driven applications**
