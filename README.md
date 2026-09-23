@@ -92,6 +92,7 @@ A enterprise-style dashboard application focusing on modular architecture, reusa
 * RESTful API Design & Third-Party Integration
 * Secure Authentication & State Management Systems
 * Database Schema Design (SQL & NoSQL)
+* Responsiveness & State Management
 
 ---
 
@@ -103,7 +104,7 @@ A enterprise-style dashboard application focusing on modular architecture, reusa
 
 ---
 
-## 📬Let's Contact
+## 📬Let's Connect :
 
 Interested in collaborating, discussing a client project, or exploring software solutions? Feel free to reach out.
 
