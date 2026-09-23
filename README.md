@@ -10,7 +10,7 @@ I specialize in building end-to-end systems using modern JavaScript frameworks (
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 * 💻 **Full-Stack Engineer** with hands-on experience in architecting and deploying full-stack web applications.
 * ⚙️ Specialized in **RESTful APIs, authentication systems, scalable databases, dynamic dashboards, and modular backend design.**
@@ -49,14 +49,14 @@ I specialize in building end-to-end systems using modern JavaScript frameworks (
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project :
 
 ### ZM Dost — Building Management System
 
 A production-ready enterprise solution built to streamline operations and property management for real-world commercial operations.
 
 🔗 **Live Application:** [zmdost.com](https://zmdost.com)  
-🛠️ **Tech Stack:** `Next.js` · `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS`
+   **Tech Stack:** `Next.js` · `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS`
 
 **Core Functionalities:**
 * Property & Building Structure Management
@@ -96,14 +96,14 @@ A enterprise-style dashboard application focusing on modular architecture, reusa
 ---
 
 ## 📈 Current Focus
-
+* Responsive Web Applications.
 * Pursuing **BS in Information Technology** at University of Sargodha.
 * Developing production-ready, client-focused web software.
 * Expanding expertise in modern web performance, scalable architecture, and state management.
 
 ---
 
-## 📬 Contact & Connect
+## 📬Let's Contact
 
 Interested in collaborating, discussing a client project, or exploring software solutions? Feel free to reach out.
 
