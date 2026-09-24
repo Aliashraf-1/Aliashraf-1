@@ -21,7 +21,7 @@ I specialize in building end-to-end systems using modern JavaScript frameworks (
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 #### **Frontend Engineering**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,7 +83,7 @@ A enterprise-style dashboard application focusing on modular architecture, reusa
 
 ---
 
-## 💡 Capabilities & Solutions
+##  Capabilities & Solutions
 
 * Custom Full-Stack Web Applications
 * Admin Panels & Operations Dashboards
@@ -96,7 +96,7 @@ A enterprise-style dashboard application focusing on modular architecture, reusa
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 * Responsive Web Applications.
 * Pursuing **BS in Information Technology** at University of Sargodha.
 * Developing production-ready, client-focused web software.
@@ -104,7 +104,7 @@ A enterprise-style dashboard application focusing on modular architecture, reusa
 
 ---
 
-## 📬Let's Connect :
+## Let's Connect :
 
 Interested in collaborating, discussing a client project, or exploring software solutions? Feel free to reach out.
 
